@@ -7,7 +7,7 @@
     box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.92);
 }
 
-.buttons {
+.buttons > div{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 5px;
